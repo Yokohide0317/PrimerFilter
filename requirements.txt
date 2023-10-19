@@ -1,0 +1,3 @@
+pandas
+streamlit
+biopython==1.81
